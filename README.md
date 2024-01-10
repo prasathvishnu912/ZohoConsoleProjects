@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <title>Project README</title>
-    <!-- Optional: Add CSS styles or link to an external stylesheet -->
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            font-size: 24px;
-        }
-        h2 {
-            font-size: 20px;
-        }
-        /* Add your custom styles here */
-    </style>
-</head>
-
-<body>
     <h1>Project Title</h1>
     <p>
         Brief description or introduction about the project.
@@ -73,7 +50,3 @@
     <p align="center">
         <em>Feel free to customize this README according to your project's requirements.</em>
     </p>
-</body>
-
-</html>
-
