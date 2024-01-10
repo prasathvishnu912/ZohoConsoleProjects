@@ -1,0 +1,278 @@
+{ 
+
+"employeeDet":[ 
+   { 
+   "empId":1001,
+   "name":"Vishnu prasath",
+   "mobNum":"8484849392",
+   "userName":"vishnu",
+   "pwd":"vishnu",
+   "vechileType":"car"
+   },
+   {
+    "empId":1002,
+   "name":"Praveen kumar",
+   "mobNum":"8967292323", 
+   "userName":"praveen",
+   "pwd":"praveen",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1003,
+   "name":"Swathika",
+   "mobNum":"9473428232",
+   "userName":"swathi",
+   "pwd":"swathi",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1004,
+   "name":"Sharmila devi",
+   "mobNum":"9876345267",
+   "userName":"sharmi",
+   "pwd":"sharmi",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1005,
+   "name":"Subabharathy",
+   "mobNum":"7438329329",
+   "userName":"bharathy",
+   "pwd":"bharathy",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1006,
+   "name":"Vijayalaxmi",
+   "mobNum":"8339222093",
+   "userName":"viji",
+   "pwd":"viji",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1007,
+   "name":"Praveen pandi",
+   "mobNum":"9856473822",
+   "userName":"saamy",
+   "pwd":"saamy",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1008,
+   "name":"Thulasi ram",
+   "mobNum":"9876484933",
+   "userName":"thulasi",
+   "pwd":"thulasi",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1009,
+   "name":"Duraga devi",
+   "mobNum":"9874634834",
+   "userName":"durga",
+   "pwd":"durga",
+   "vechileType":"car"
+   },
+   { 
+    "empId":10010,
+   "name":"Mounesh",
+   "mobNum":"8746372811",
+     "userName":"mounesh",
+     "pwd":"mounesh",
+     "vechileType":"car"
+   },
+   { 
+    "empId":10011,
+   "name":"Donald trump",
+   "mobNum":"8445498323",
+   "userName":"trump",
+   "pwd":"trump",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10012,
+   "name":"Joe biden",
+   "mobNum":"9846373829",
+   "userName":"joebiden",
+   "pwd":"joebiden",
+   "vechileType":"bike"
+   },
+   {  "empId":10013,
+   "name":"Vladimir putin",
+   "mobNum":"6749349439",
+   "userName":"putin",
+   "pwd":"putin",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10014,
+   "name":"Xinping",
+   "mobNum":"8484954594",
+   "userName":"xinping",
+   "pwd":"xinping",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10015,
+   "name":"Rahul gandhi",
+   "mobNum":"7435329847",
+   "userName":"rahul",
+   "pwd":"rahul",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10016,
+   "name":"Josheph vijay",
+   "mobNum":"8484849392",
+   "userName":"vijay",
+   "pwd":"vijay",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10017,
+   "name":"Ajith kumar",
+   "mobNum":"8484845657",
+   "userName":"ajith",
+   "pwd":"ajith",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10018,
+   "name":"Saravanan",
+   "mobNum":"8484847483",
+   "userName":"surya",
+   "pwd":"surya",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10019,
+   "name":"Kennedy",
+   "mobNum":"8484847654",
+   "userName":"vikram",
+   "pwd":"vikram",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10020,
+   "name":"Dhanush k Raja",
+   "mobNum":"8484849392",
+     "userName":"dhanush",
+     "pwd":"dhanush",
+     "vechileType":"bike"
+   }
+],
+
+"attendanceList":[ 
+    { 
+   "empId":1001,
+   "name":"Vishnu prasath",
+   "mobNum":"8484849392",
+   "vechileType":"car"
+   },
+   {
+    "empId":1002,
+   "name":"Praveen kumar",
+   "mobNum":"8967292323",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1003,
+   "name":"Swathika",
+   "mobNum":"9473428232",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1004,
+   "name":"Sharmila devi",
+   "mobNum":"9876345267",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1005,
+   "name":"Subabharathy",
+   "mobNum":"7438329329",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1006,
+   "name":"Vijayalaxmi",
+   "mobNum":"8339222093",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1007,
+   "name":"Praveen pandi",
+   "mobNum":"9856473822",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1008,
+   "name":"Thulasi ram",
+   "mobNum":"9876484933",
+   "vechileType":"car"
+   },
+   { 
+    "empId":1009,
+   "name":"Duraga devi",
+   "mobNum":"9874634834",
+   "vechileType":"car"
+   },
+   { 
+    "empId":10010,
+   "name":"Mounesh",
+   "mobNum":"8746372811",
+     "vechileType":"car"
+   },
+   { 
+    "empId":10011,
+   "name":"Donald trump",
+   "mobNum":"8445498323",
+   "vechileType":"bike"
+   },
+  
+   { 
+    "empId":10014,
+   "name":"Xinping",
+   "mobNum":"8484954594",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10015,
+   "name":"Rahul gandhi",
+   "mobNum":"7435329847",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10016,
+   "name":"Josheph vijay",
+   "mobNum":"8484849392",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10017,
+   "name":"Ajith kumar",
+   "mobNum":"8484845657",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10018,
+   "name":"Saravanan",
+   "mobNum":"8484847483",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10019,
+   "name":"Kennedy",
+   "mobNum":"8484847654",
+   "vechileType":"bike"
+   },
+   { 
+    "empId":10020,
+   "name":"Dhanush k Raja",
+   "mobNum":"8484849392",
+     "vechileType":"bike"
+   }
+
+]
+
+}
